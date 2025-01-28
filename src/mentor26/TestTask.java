@@ -5,5 +5,8 @@ public class TestTask {
         System.out.println("Hello, Diana!");
         System.out.println("Smile 😊");
         System.out.println("Aysel urekdir!");
+        System.out.println("Aysel urekdir!");
+        System.out.println("Aysel urekdir!");
+        System.out.println("Aysel urekdir!");
     }
 }
