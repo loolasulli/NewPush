@@ -9,11 +9,11 @@ public class Main {
         Shows show3 = new Shows("OuterBanks", 4.8, Genres.ACTION, Status.WATCHING);
         Shows show4 = new Shows("Constellation", 4.6, Genres.THRILLER, Status.HAVENTSTARTED);
         Shows show6 = new Shows("Chernobyl", 4.9, Genres.HISTORY, Status.FINISHED);
-        Shows show5 = new Shows("Dark", 4.9, Genres.MYSTERY, Status.STOPPED);
         Shows show7 = new Shows("IntoTheNight", 4.7, Genres.THRILLER, Status.FINISHED);
+        Shows show5 = new Shows("Dark", 4.9, Genres.MYSTERY, Status.STOPPED);
         Shows show8 = new Shows("EmilyInParis", 4.7, Genres.COMEDY, Status.UPTODATE);
-        Shows show9 = new Shows("11.22.63", 4.8, Genres.THRILLER, Status.FINISHED);
         Shows show10 = new Shows("TheHead", 4.6, Genres.THRILLER, Status.WATCHING);
+        Shows show9 = new Shows("11.22.63", 4.8, Genres.THRILLER, Status.FINISHED);
         Shows show11 = new Shows("TheMarkedHeart", 4.8, Genres.DRAMA, Status.FINISHED);
 
 
